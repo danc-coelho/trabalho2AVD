@@ -1,0 +1,1 @@
+module.exports = precoVenda = (valorUnitario) => valorUnitario + valorUnitario * 0.20;

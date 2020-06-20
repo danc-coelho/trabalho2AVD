@@ -1,0 +1,1 @@
+module.exports = precoTotal = (quantidade, valorUnitario) => quantidade * valorUnitario;

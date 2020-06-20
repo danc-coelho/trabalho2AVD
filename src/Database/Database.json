@@ -1,0 +1,15 @@
+{
+   "produtos": [
+      {
+         "id": 1,
+         "nome": "par de sapato",
+         "quantidade": 2,
+         "valorUnitario": 2.00,
+         "precoTotal": null,
+         "precoVenda": null,
+         "lucro": null,
+         "situacaoProduto": "",
+         "complementos": []
+      }
+   ]
+}
